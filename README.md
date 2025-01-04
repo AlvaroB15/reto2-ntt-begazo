@@ -70,5 +70,8 @@ Para las pruebas
 ```maven test```
 Por si no tiene instalado maven puede usar
 ```./mvnw test```
+![alt text](https://github.com/AlvaroB15/reto2-ntt-begazo/blob/main/test-auth.png?raw=true)
+
+![alt text](https://github.com/AlvaroB15/reto2-ntt-begazo/blob/main/test-user.png?raw=true)
 
 
