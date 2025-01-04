@@ -36,6 +36,7 @@ docker-compose up -d
 
 Agregare una carpeta de docker y docker-compose.yml, solo necesita clonar los 2 proyetos backend en la raiz de este mismo repo, al hacer eso, podra correr ambos contenedores de forma local, y expuestos en el puerto 8081 y 8082
 
+
 /POST
 http://localhost:8082/api/login
 ```
@@ -57,14 +58,17 @@ http://localhost:8081/api/register
 }
 ```
 
-Para las pruebas 
-```maven test```
-Por si no tiene instalado maven puede usar
-```./mvnw test```
-
 
 /GET http://localhost:8081/api/users
 El token se genera al realizar el login, debe reemplazar el de ejemplo de abajo
 ```
 token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwYzJwcmVzaUBnbWFpbC5jb20iLCJpYXQiOjE3MzU5NTU5NDcsImV4cCI6MTczNTk1NjAzNH0.hXvIpuEVCur2fw3PxhOOBhUsTgAFMfpOhGUdrI6o03s
 ```
+
+
+Para las pruebas 
+```maven test```
+Por si no tiene instalado maven puede usar
+```./mvnw test```
+
+
