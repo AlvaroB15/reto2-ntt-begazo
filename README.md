@@ -57,6 +57,11 @@ http://localhost:8081/api/register
 }
 ```
 
+Para las pruebas 
+```maven test```
+Por si no tiene instalado maven puede usar
+```./mvnw test```
+
 
 /GET http://localhost:8081/api/users
 El token se genera al realizar el login, debe reemplazar el de ejemplo de abajo
