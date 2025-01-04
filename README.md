@@ -1,6 +1,6 @@
 # reto2-ntt-begazo
 
-Los repos del reto 1 son
+Los repos del reto 2 son
 
 Backend:
 
