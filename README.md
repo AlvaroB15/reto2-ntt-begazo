@@ -14,7 +14,8 @@ Frontend:
 Endpoints publicos 
 
 Frontend
-```[https://admirable-beijinho-3e3a3b.netlify.app/login](https://angular18-retodos.netlify.app/login)```
+
+```https://angular18-retodos.netlify.app/login```
 
 Microservicios
 
